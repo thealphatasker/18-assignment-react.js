@@ -104,11 +104,10 @@ function App() {
         <br />
 
         <h2>Symbolism</h2>
-        <figure>
-          <p>The triquetra represents the three timelines.</p>
-          <figcaption>Past, Present, and Future</figcaption>
-        </figure>
-
+        <p>The triquetra represents the three timelines. <br />
+          Past, Present, and Future
+        </p>
+        <br />
         <h2>User Opinion</h2>
         <form>
           <label htmlFor="name">Your Name:</label>
@@ -133,7 +132,7 @@ function App() {
         </form>
 
           <br />
-                    <br />
+          <br />
         <h3>Did You Know?</h3>
         <p>
           DARK was the first German-language original series produced by Netflix.
