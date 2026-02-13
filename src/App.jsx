@@ -74,7 +74,7 @@ function App() {
         <br />
 
         <h2>Important Years</h2>
-        <table border="1px">
+        <table border="1px" align='center'>
           <caption><i>Key Years in DARK</i></caption>
           <thead>
             <tr>
@@ -132,6 +132,34 @@ function App() {
         </form>
 
           <br />
+          <br />
+          <h3>Google Map:</h3>
+          <iframe
+          title="ARFA Tower Location"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3402.7605317111725!2d74.33999707506752!3d31.475772949345114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3919042715f767ad%3A0xb0251034ce47145e!2sARFA%20Tower%2C%20Lahore%20%E2%80%93%20Kasur%20Rd%2C%20Nishtar%20Town%2C%20Lahore%2C%20Pakistan!5e0!3m2!1sen!2s!4v1770963662926!5m2!1sen!2s"
+          width="450"
+          height="250"
+          style={{ border: 0 }}
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+          allowFullScreen
+          ></iframe>
+
+      <br />
+      <br />
+      <h3>YouTube:</h3>
+        <iframe
+          title="DARK Trailer"
+          width="450"
+          height="250"
+          src="https://www.youtube.com/embed/5o7HfWDWIuo"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerPolicy="strict-origin-when-cross-origin"
+          allowFullScreen
+        ></iframe>
+
+
           <br />
         <h3>Did You Know?</h3>
         <p>
